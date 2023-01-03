@@ -32,7 +32,10 @@ RUN apt-get update&&\
     nano\
     nginx\
     nodejs\
+    osm2pgsql\
+    osmctools\
     osmium-tool\
+    osmosis\
     pkg-config\
     ruby\
     sqlite3\
