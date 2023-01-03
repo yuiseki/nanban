@@ -37,6 +37,7 @@ RUN apt-get update&&\
     osmium-tool\
     osmosis\
     pkg-config\
+    postgresql-client\
     ruby\
     sqlite3\
     tmux\
