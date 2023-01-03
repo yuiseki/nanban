@@ -21,6 +21,7 @@ RUN apt-get update&&\
     g++\
     gdal-bin\
     git\
+    jq\
     libboost-program-options-dev\
     libbz2-dev\
     libexpat1-dev\
