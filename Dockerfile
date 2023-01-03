@@ -66,5 +66,8 @@ RUN apt-get update&&\
   npm install -g @unvt/charites&&\
   npm install -g @unvt/kata&&\
   npm install -g @unvt/itoma&&\
+  npm install -g http-server&&\
+  npm install -g osmtogeojson&&\
+  npm install -g geojson2poly&&\
   gem install mdless hocon
 
